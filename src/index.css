@@ -1,0 +1,7 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body{
+  display: grid;
+  background-color: aliceblue;
+  min-height: 100vh;
+}
